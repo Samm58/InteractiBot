@@ -209,7 +209,6 @@ if __name__ == '__main__':
         layout='wide')
 <<<<<<< HEAD
     st.write("<h1 style='text-align: center; color: white;'>What do you want to do?</h1>", unsafe_allow_html=True)
-=======
     st.write("<h1 style='text-align: center; color: white;'>Welcome to InteractiBot! 🤖</h1>", unsafe_allow_html=True)
     st.write("<h3 style='text-align: center; color: white;'>Your interactive gateway to seamless PDF and CSV file management and analysis with AI Chat</h3>", unsafe_allow_html=True)
 >>>>>>> 811a278 (Add homepage description)

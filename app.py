@@ -205,7 +205,7 @@ if __name__ == '__main__':
 
     st.set_page_config(
         page_title ="PetroBot",
-        page_icon="resources\petrobot_icon.png",
+        page_icon="resources\interactibot_icon.png",
         layout='wide')
     st.write("<h1 style='text-align: center; color: white;'>Welcome to InteractiBot! 🤖</h1>", unsafe_allow_html=True)
     st.write("<h4 style='text-align: center; color: white;'>InteractiBot is your one-stop solution for interactive file management and data analysis. Designed with a user-friendly interface, it allows you to upload, interact, and analyze your PDF and CSV files with ease</h4>", unsafe_allow_html=True)

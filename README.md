@@ -1,3 +1,3 @@
-# PetroBot
+# InteractiBot
 
 https://interactibot.streamlit.app/

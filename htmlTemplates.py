@@ -34,6 +34,17 @@ css = '''
   padding: 0 1.5rem;
   color: #fff;
 }
+.my-header {
+    color: #912BBC;
+}
+.my-title {
+    text-align: center; 
+    color: white
+}
+.my-subtitle {
+    text-align: center; 
+    color: #E9A89B
+}
 '''
 
 bot_template = '''
@@ -75,15 +86,3 @@ opt_menu_styles={
     }
 }
 
-background={
-    """
-    <style>
-    .reportview-container {
-        background: url("url_goes_here")
-    }
-   .sidebar .sidebar-content {
-        background: url("url_goes_here")
-    }
-    </style>
-    """
-}

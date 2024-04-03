@@ -1,4 +1,4 @@
-Depth(ft),Rt(Ohm-m),Rxo(Ohm-m),GR(API),SP(10mV),Sonic(\mus/ft),Density(g/cm3),Neutron([-])
+Depth_ft_,Rt_Ohm_m_,Rxo_Ohm_m_,GR_API_,SP_10mV_,Sonic__mus_ft_,Density_g_cm3_,Neutron_____
 3200.0,2.569,2.406,148.169,2.415,130.079,2.051,0.044
 3201.0,2.205,2.252,148.018,-0.776,152.964,2.58,0.045
 3202.0,2.122,1.957,147.434,2.97,120.42,1.99,0.05

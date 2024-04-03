@@ -14,7 +14,7 @@
   <a href="#related">Related</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+https://github.com/Samm58/InteractiBot/assets/141254721/748cacba-8517-4707-b762-1a88ee67ce22
 
 ## Key Features
 

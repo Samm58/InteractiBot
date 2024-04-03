@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="\resources\app_logo.png" alt="InteractiBot" width="600"></a>
+  <a href="https://interactibot.streamlit.app/"><img src="\resources\app_logo.png" alt="InteractiBot" width="600"></a>
 </h1>
 
 <h4 align="center">An innovative Streamlit application that allows users to interact with their uploaded CSV/JSON and PDF files, leveraging LIDA for data visualization and Langchain for document interaction.</h4>
@@ -67,5 +67,5 @@ This software uses the following open source packages:
 
 ## Related
 
-[InteractiBot](https://github.com/amitmerchant1990/markdownify-web) - Web version of InteractiBot
+[InteractiBot](https://interactibot.streamlit.app/) - Web version of InteractiBot
 
